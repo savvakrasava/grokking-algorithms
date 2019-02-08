@@ -1,2 +1,0 @@
-# grokking-algorithms
-grokking-algorithms 
